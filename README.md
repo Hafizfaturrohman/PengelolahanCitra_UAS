@@ -1,19 +1,21 @@
 # Nama Kelompok 
+- Mata Kuliah	Pengolahan Citra	
+- Dosen Pengampu	Muhammad Fatchan, S.Kom., M.Kom., MTCNA.
 1. **Nama:** [HAFIZ FATURROHMAN]
    - **NIM:** [312210375]
    - **Kelas:** [TI.22.A.4]
 
-2. **Nama:** [Nama Anggota 2]
-   - **NIM:** [NIM Anggota 2]
-   - **Kelas:** [Kelas Anggota 2]
+2. **Nama:** [YUDHA EKA PERDANA]
+   - **NIM:** [312210362]
+   - **Kelas:** [TI.22.A.4]
 
-3. **Nama:** [Nama Anggota 3]
-   - **NIM:** [NIM Anggota 3]
-   - **Kelas:** [Kelas Anggota 3]
+3. **Nama:** [AZZAM SAUQI RABBANI]
+   - **NIM:** [312210373]
+   - **Kelas:** [TI.22.A.4]
 
-4. **Nama:** [Nama Anggota 4]
-   - **NIM:** [NIM Anggota 4]
-   - **Kelas:** [Kelas Anggota 4]
+4. **Nama:** [MUHAMMAD ARIFIN]
+   - **NIM:** [312210330]
+   - **Kelas:** [TI.22.A.4]
 
 # Tampilan
 https://github.com/Hafizfaturrohman/PengolahanCitra_UAS/assets/115616365/3d9158a8-96c1-4771-ae23-2c4e0bd4af71
