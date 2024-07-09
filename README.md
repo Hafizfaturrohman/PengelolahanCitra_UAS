@@ -14,8 +14,9 @@
 4. **Nama:** [MUHAMMAD ARIFIN]
    - **NIM:** [312210330]
    - **Kelas:** [TI.22.A.4]
-- Mata Kuliah	Pengolahan Citra	
-- Dosen Pengampu	Muhammad Fatchan, S.Kom., M.Kom., MTCNA.
+   
+- Mata Kuliah:	Pengolahan Citra	
+- Dosen Pengampu:	Muhammad Fatchan, S.Kom., M.Kom., MTCNA.
 
 # Tampilan
 https://github.com/Hafizfaturrohman/PengolahanCitra_UAS/assets/115616365/3d9158a8-96c1-4771-ae23-2c4e0bd4af71
