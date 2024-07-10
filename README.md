@@ -110,9 +110,7 @@ def run_camera_detection():
 if __name__ == "__main__":
     main()```
 
-# Installation
-   
-# hasil UTS
+# installation
 
 
 
