@@ -34,7 +34,7 @@ https://github.com/Hafizfaturrohman/PengolahanCitra_UAS/assets/115616365/749d787
 ![Screenshot 2024-07-09 130807](https://github.com/Hafizfaturrohman/PengolahanCitra_UAS/assets/115616365/07fe7311-0b8b-4fe5-a094-25b100f13a0e)
 
 # Project UTS
-''' import streamlit as st
+```import streamlit as st
 import cv2
 import numpy as np
 from PIL import Image
@@ -75,7 +75,7 @@ def main():
                 for (ex, ey, ew, eh) in eyes:
                     cv2.rectangle(roi_color, (ex, ey), (ex + ew, ey + eh), (0, 255, 0), 2)  # Green rectangle for eyes
 
-            st.image(image_np, channels="BGR") '''
+            st.image(image_np, channels="BGR")
 
 def run_camera_detection():
     cap = cv2.VideoCapture(0)
@@ -107,7 +107,7 @@ def run_camera_detection():
     cv2.destroyAllWindows()
 
 if __name__ == "__main__":
-    main()
+    main()```
     
 # hasil UTS
 ![Screenshot 2024-07-10 213622](https://github.com/Hafizfaturrohman/PengolahanCitra_UAS/assets/115616365/3a01add4-9b7b-4474-8659-926c350c9532)
