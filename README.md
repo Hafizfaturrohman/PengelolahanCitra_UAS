@@ -116,5 +116,6 @@ if __name__ == "__main__":
 # Hasil UTS
 ![Screenshot 2024-07-10 213622](https://github.com/Hafizfaturrohman/PengolahanCitra_UAS/assets/115616365/396a8a2b-d19b-45d6-9521-304422bd4361)
 
-![Screenshot 2024-07-10 214037](https://github.com/Hafizfaturrohman/PengolahanCitra_UAS/assets/115616365/bb2cb73a-8a80-4466-9c25-ce10dd907a74)
+![Screenshot 2024-07-10 214412](https://github.com/Hafizfaturrohman/PengolahanCitra_UAS/assets/115616365/e0c07bfb-d7b4-476d-a0ec-c226f698d5f9)
+
 
