@@ -1,3 +1,5 @@
+
+https://github.com/Hafizfaturrohman/PengolahanCitra_UAS/assets/115616365/bbe5eaf1-b744-4824-9a5f-96c12cdb0bb8
 # Nama Kelompok 
 1. **Nama:** [HAFIZ FATURROHMAN]
    - **NIM:** [312210375]
@@ -20,6 +22,8 @@
 
 # Tampilan
 https://github.com/Hafizfaturrohman/PengolahanCitra_UAS/assets/115616365/3d9158a8-96c1-4771-ae23-2c4e0bd4af71
+
+https://github.com/Hafizfaturrohman/PengolahanCitra_UAS/assets/115616365/749d7872-37fc-49a8-9b82-6458743d9216
 
 # Requirements
 - streamlit==1.36.0
