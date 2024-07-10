@@ -109,10 +109,10 @@ def run_camera_detection():
 
 if __name__ == "__main__":
     main()```
-    
-# hasil UTS
-![Screenshot 2024-07-10 213622](https://github.com/Hafizfaturrohman/PengolahanCitra_UAS/assets/115616365/0452e5ed-f603-4ac8-a822-725c49271da7)
 
-![Screenshot 2024-07-10 214412](https://github.com/Hafizfaturrohman/PengolahanCitra_UAS/assets/115616365/0314e404-278c-43b3-b77b-664a8b648f26)
+# Installation
+   
+# hasil UTS
+
 
 
